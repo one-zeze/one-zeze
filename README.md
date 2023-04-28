@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Spring Boot?style=flat&logo=springboot&logoColor=6DB33F"/>
