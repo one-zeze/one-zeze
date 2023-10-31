@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Spring+Java, AWS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zeze97)](https://solved.ac/zeze97/)
+- 🌱 I’m currently learning Spring+Java, AWS
 <!--
 **one-zeze/one-zeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
